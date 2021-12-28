@@ -6,5 +6,7 @@ spring:
   cloud:
     nacos:
       server-addr: 81.68.182.114:8848 # nacos地址
+      discovery:
+        cluster-name: HZ # 配置集群名称
       config:
         file-extension: yaml # 文件后缀名

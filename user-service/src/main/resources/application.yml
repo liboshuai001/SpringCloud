@@ -11,7 +11,7 @@ spring:
       default-database-strategy:
       tables:
 #      discovery:
-#        cluster-name: HZ
+#        cluster-name: SH
 mybatis:
   type-aliases-package: cn.itcast.user.pojo
   configuration:
