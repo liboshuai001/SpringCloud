@@ -13,6 +13,7 @@ spring:
       server-addr: 81.68.182.114:8848 # nacos服务地址
       discovery:
         cluster-name: HZ
+        namespace: 8d2a44b9-62bf-4aa2-90ff-35832b6798d7 # dev环境
 #      discovery:
 #        namespace: 4d6ce343-9e1b-44df-a90f-2cf2b6b3d177 # dev环境
 #        ephemeral: false # 是否是临时实例

@@ -10,3 +10,4 @@ spring:
         cluster-name: HZ # 配置集群名称
       config:
         file-extension: yaml # 文件后缀名
+        namespace: 8d2a44b9-62bf-4aa2-90ff-35832b6798d7 # dev环境
